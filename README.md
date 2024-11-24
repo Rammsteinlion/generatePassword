@@ -1,4 +1,4 @@
-# Proyect Generate Passowrd
+# Proyect Generate Password
 ### Generate Password
 
 - Generate Password HTML CSS And JavaScript
